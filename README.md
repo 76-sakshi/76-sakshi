@@ -61,6 +61,8 @@
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=76-sakshi&theme=radical" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=76-sakshi&layout=compact&theme=radical" height="170"/>
 
 </p>
 
