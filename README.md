@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">Frontend Developer | Aspiring Full Stack Developer</h3>
+<h3 align="center">Frontend Developer </h3>
 
 <p align="center">
   🎓 2nd Year BCA Student <br>
-  🌟 Maintaining a 9.87 CGPA <br>
   💻 Passionate about building responsive, user-friendly web applications <br>
-  🚀 Currently exploring backend technologies to become a Full Stack Developer
 </p>
 
 ---
@@ -15,10 +13,6 @@
 - 🎓 2nd Year BCA Student with a **9.87 CGPA**
 - 💻 Frontend Developer passionate about modern web development
 - 🌱 Currently learning Backend Development to become a Full Stack Developer
-- 🚀 Love building responsive and interactive web applications
-- 📚 Continuously learning new technologies and improving my skills
-- 🤝 Open to collaborating on exciting projects
-- ⚡ Fun fact: I enjoy turning creative ideas into beautiful websites
 
 ---
 
@@ -72,18 +66,7 @@
 
 - 🌿 Backend Development
 - ⚡ Full Stack Web Development
-- 📂 Git & GitHub
 - 💡 Problem Solving using Java
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Become a Full Stack Developer
-- 💼 Build impactful real-world projects
-- 📚 Strengthen DSA and Programming Skills
-- 🌟 Contribute to Open Source
-- 🤝 Collaborate with developers worldwide
 
 ---
 
