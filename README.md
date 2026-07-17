@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer </h3>
 
 <p align="center">
-  🎓 2nd Year IMCA Student <br>
+  🎓 3rd Year IMCA Student <br>
   💻 Passionate about building responsive, user-friendly web applications <br>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd Year IMCA Student with a **9.87 CGPA**
+- 🎓 3rd Year IMCA Student with a **9.87 CGPA**
 - 💻 Frontend Developer passionate about modern web development
 - 🌱 Currently learning Backend Development to become a Full Stack Developer
 
