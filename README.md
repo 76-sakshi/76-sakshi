@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd Year IMCA Student with a **9.87 CGPA**
+- 🎓 3rd Year IMCA Student with a **9.52 CGPA**
 - 💻 Frontend Developer passionate about modern web development
 - 🌱 Currently learning Backend Development to become a Full Stack Developer
 
